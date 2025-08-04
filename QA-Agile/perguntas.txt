@@ -108,7 +108,9 @@ R25: [RESPOSTA A SER PREENCHIDA]
 ---
 
 P26: O que é Extreme Programming (XP)?
-R26: [RESPOSTA A SER PREENCHIDA]
+R26: É um método que auxilia no desenvolvimento do código, se baseia em duas pessoas estarem no mesmo
+computador trabalhando ao mesmo tempo, enquanto um "coda" outro confere o código, isso auxilia
+na lógica do código e evita erros.
 
 P27: O que é a prática de "Pair Programming" (Programação em Par)?
 R27: [RESPOSTA A SER PREENCHIDA]
